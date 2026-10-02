@@ -96,8 +96,6 @@ borrowed.
 **Step 4:**
 Now just click Next for the rest of the windows. After all this the database connection is made. Make sure that you connect with the database before running the project by right clicking on the connection and selecting connect. Now you are ready to run the project!
 
-![final](../master/images/final.png)
-
 
 
 
